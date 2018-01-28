@@ -1,2 +1,6 @@
-# codingclubiitg-news_scrapping
-News website scrapping (Google News)
+# News website scrapping (Google News)
+
+# Requirement : 
+python(3+) 
+Beautifulsoup
+notify2
